@@ -1,3 +1,9 @@
+#!/bin/bash
+
+# Author : MRLINKERRORSYSTEM ^_^
+# THCA (TEAM HACKER CYBER ARMY)
+# Thanks To All Member THCA
+
 
 clear
 c="toilet -f term -F gay"
